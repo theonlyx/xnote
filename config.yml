@@ -1,0 +1,7 @@
+editor: /usr/bin/vim
+# editor: /usr/bin/emacsclient
+database: 'sqlite:///myNotes.db'
+sql_echo: false
+logging:
+  disable_existing_loggers: true
+                                                                    },
